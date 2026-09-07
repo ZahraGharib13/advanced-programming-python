@@ -1,0 +1,10 @@
+jupyter
+pyrosm
+ipyleaflet
+networkx
+osmnx
+geopandas
+pandas
+scikit-learn
+numpy
+matplotlib
